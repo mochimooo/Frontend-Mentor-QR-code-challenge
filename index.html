@@ -4,24 +4,78 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Frontend Mentor QR code Challenge</title>
-    <style>
-        body {background-color: Grayish rgb(99, 202, 211)}
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+    <title>Frontend Mentor | QR code component</title>
+    
+    <style> 
+        body{
+            background-color:hsl(212, 45%, 89%);
+            padding-top: 5%;
+        }
+
+        #card {
+            box-shadow: 8px 8px 16px 0 hsl(219, 21%, 72%);
+            width: 310px;
+            height: 480px;
+            background-color:hsl(0, 0%, 100%)
+        }
+        
+        div{
+            text-align:center;
+            margin: auto;
+            border-radius: 15px;
+        }
+        
+        @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&display=swap');
+
+        #fontOutfit{
+            font-family: 'Outfit', sans-serif;
+        }
+
+        img{
+            margin: auto;
+            display: block;
+            border-radius: 10px;
+        }
+
+       #para1{
+        font-weight: 700;
+        font-size: 20px;
+        }
+
+       #para2{
+        font-weight: 400;
+        font-size: 15px;
+        color: hsl(220, 15%, 55%)
+       }
+
+        .attribution { font-size: 11px; text-align: center; }
+        .attribution a { color: hsl(228, 45%, 44%); }
     </style>
 </head>
-<body>
-    <table border="50">
-        <tr>
-            <th><img src="image-qr-code.png" width="200" height="200"></th>
-        </tr>
-        <tr>
-            <td rowspan="2">
-                <h1>Improve your front-end skills&nbsp;by&nbsp;building&nbsp;projects</h1>
-                <h2>Scan the QR code to visit Frontend Mentor&nbsp;and&nbsp;take&nbsp;your coding skills to the next level</h2>
-            </td>
-        </tr>
 
-    </table>
-    
+<body>
+    <main>
+        <div id="card">
+            <br>
+            <img src="image-qr-code.png" width="275" height="275">
+            <div id="fontOutfit">
+                <p id="para1">Improve your front-end<br>skills by building projects</p>
+                 
+                <p id="para2">Scan the QR code to visit Frontend<br>Mentor and take your coding skills to<br> the next level</p>
+            </div>
+        </div>
+    </main>
+
+    <br><br><br><br><br><br><br><br>
+
+    <footer>
+        <div class="attribution">
+            Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+            Coded by <br><a href="#">Zoe Liu</a>.
+        </div>
+    </footer>
+
 </body>
+
 </html>
