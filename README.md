@@ -22,11 +22,6 @@
 
 ![Screenshot of my finished website](./Screenshot/screenshot.png)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
 
 ### Built with
@@ -34,36 +29,21 @@
 - Semantic HTML5 markup
 - CSS custom properties
 
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<body style="background-color:hsl(212, 45%, 89%)">Some HTML code I'm proud of</body>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-
 ### Continued development
 
 This is the first project I ever made with HTML 5 and CSS. Definitely need practice to remember how to use some of the functions here, including: how to insert font from an URL, fix footer at the bottom of the page so it's readable across different monitor screen sizes, how to make a card and how to make it look dimesional, etc.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [How to Center an Image Using Text Align: Center](https://www.freecodecamp.org/news/how-to-center-an-image-using-text-align/) - This helped me center the QR code within the card.
+- [CSS Box-Shadow tutorial: the basics](https://www.youtube.com/watch?v=-JNRQ5HjNeI&ab_channel=KevinPowell) - The video explains how to create shadow around a box-in this case it's the card.
+- [How to set background color in HTML?](https://www.tutorialspoint.com/How-to-set-background-color-in-HTML) - The article explains how to set background color for HTML body in HTML or with CSS.
+- [CSS Rounded Corners](https://www.w3schools.com/css/css3_borders.asp) - info for how to set the card's corners to be rounded.
+- [How to add CSS] (https://www.w3schools.com/css/css_howto.asp) - info for how to create external, internal, or inline CSS. I plan to learn about how to make external CSS sheet so I can save time in the future.
 
 ## Author
-- Frontend Mentor - [@mochimooo](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@mochimooo](https://www.frontendmentor.io/profile/mochimooo)
 
 ## Acknowledgments
 
-I got help from my brother, Benny. He gave me feedback which I will implement in my future projects.
+I got help from my brother, Benny. He gave me feedback which I will implement in my future projects, such as creating an external CSS sheet, and how to consider the functionality of a website in order to fix certain items on the website to fit different monitor screens.
