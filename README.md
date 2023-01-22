@@ -20,7 +20,7 @@
 
 ### Screenshot
 
-![Screenshot of my finished website] (./Screenshot/screenshot.png)
+![Screenshot of my finished website](./Screenshot/screenshot.png)
 
 ### Links
 
