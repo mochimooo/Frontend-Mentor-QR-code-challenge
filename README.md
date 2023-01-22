@@ -20,7 +20,7 @@
 
 ### Screenshot
 
-![Screenshot of my finished website] (https://github.com/mochimooo/Frontend-Mentor-QR-code-challenge/blob/main/Screenshot/Screenshot%202023-01-16%20of%20solution%20for%20QR%20code%20challenge.png/Screenshot)
+![Screenshot of my finished website] (https://github.com/mochimooo/Frontend-Mentor-QR-code-challenge/blob/main/Screenshot/Screenshot%202023-01-16%20of%20solution%20for%20QR%20code%20challenge.png)
 
 ### Links
 
