@@ -1,7 +1,8 @@
 # Frontend Mentor QR code challenge
  My first project attempt
-
  Date started:1/10/2023
+ Date finished: 1/19/2023
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -19,7 +20,7 @@
 
 ### Screenshot
 
-![](./Screenshot 2023-01-16 of solution for QR code challenge.png)
+![Screenshot of my finished website] (./Screenshot/2023-01-16 of solution for QR code challenge.png)
 
 ### Links
 
@@ -47,21 +48,11 @@ To see how you can add code snippets, see below:
   color: papayawhip;
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+This is the first project I ever made with HTML 5 and CSS. Definitely need practice to remember how to use some of the functions here, including: how to insert font from an URL, fix footer at the bottom of the page so it's readable across different monitor screen sizes, how to make a card and how to make it look dimesional, etc.
 
 ### Useful resources
 
@@ -71,15 +62,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@mochimooo](https://www.frontendmentor.io/profile/yourusername)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I got help from my brother, Benny. He gave me feedback which I will implement in my future projects.
