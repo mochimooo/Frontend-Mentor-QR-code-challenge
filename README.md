@@ -20,7 +20,7 @@
 
 ### Screenshot
 
-![Screenshot of my finished website] (./Screenshot/2023-01-16 of solution for QR code challenge.png)
+![Screenshot of my finished website] (.Screenshot/2023-01-16 of solution for QR code challenge.png)
 
 ### Links
 
