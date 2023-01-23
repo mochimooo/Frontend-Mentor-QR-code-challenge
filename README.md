@@ -1,7 +1,7 @@
 # Frontend Mentor QR code challenge
  My first project attempt
  Date started:1/10/2023
- Date finished: 1/19/2023
+ Date finished: 1/23/2023
 
 ## Table of contents
 
@@ -40,6 +40,7 @@ This is the first project I ever made with HTML 5 and CSS. Definitely need pract
 - [How to set background color in HTML?](https://www.tutorialspoint.com/How-to-set-background-color-in-HTML) - The article explains how to set background color for HTML body in HTML or with CSS.
 - [CSS Rounded Corners](https://www.w3schools.com/css/css3_borders.asp) - info for how to set the card's corners to be rounded.
 - [How to add CSS] (https://www.w3schools.com/css/css_howto.asp) - info for how to create external, internal, or inline CSS. I plan to learn about how to make external CSS sheet so I can save time in the future.
+- [How to Host a Website on GitHub Pages](https://www.youtube.com/watch?app=desktop&v=I-yT2Err6PE&ab_channel=KahanDataSolutions) - This tutorial video taught me how to host my solution website on GitHub.
 
 ## Author
 - Frontend Mentor - [@mochimooo](https://www.frontendmentor.io/profile/mochimooo)
