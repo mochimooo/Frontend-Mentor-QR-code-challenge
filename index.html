@@ -10,13 +10,13 @@
     <style> 
         body{
             background-color:hsl(212, 45%, 89%);
-            padding-top: 5%;
+            padding-top: 8%;
         }
 
-        #card {
+        .card {
             box-shadow: 6px 6px 24px -20px hsl(228, 15%, 55%);
             width: 310px;
-            height: 480px;
+            height: 460px;
             background-color:hsl(0, 0%, 100%)
         }
         
@@ -24,11 +24,12 @@
             text-align:center;
             margin: auto;
             border-radius: 15px;
+            padding-top: 15px
         }
         
-        @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
-        #fontOutfit{
+        .fontOutfit{
             font-family: 'Outfit', sans-serif;
         }
 
@@ -36,52 +37,58 @@
             margin: auto;
             display: block;
             border-radius: 10px;
+            width: 275px;
+            height: 275px;
         }
 
-       #para1{
-        font-weight: 700;
-        font-size: 20px;
+       .header {
+            font-size: 1.3rem;
+            color: hsl(218, 44%, 22%);
+            font-weight:700;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
         }
 
-       #para2{
+       .para{
         font-weight: 400;
         font-size: 15px;
         color: hsl(220, 15%, 55%)
        }
 
-       #bottom {
+       .bottom {
         position: fixed;
         bottom: 10px;
-        left: 45%;
         }
 
-        .attribution { font-size: 11px;}
+        .attribution { font-size: 11px;display:flex; align-items:center;justify-content: center;}
         .attribution a { color: hsl(228, 45%, 44%); }
     </style>
 </head>
 
 <body>
     <main>
-        <div id="card">
-            <br>
-            <img src="image-qr-code.png" width="275" height="275" alt="QR code">
-            <div id="fontOutfit">
-                <p id="para1">Improve your front-end<br>skills by building projects</p>
+        <div class="card">
+            
+            <img src="./images/image-qr-code.png" alt="QR code">
+            
+            <div class="fontOutfit">
+                <h1 class="header">Improve your front-end skills&nbsp;by&nbsp;building projects</h1>
                  
-                <p id="para2">Scan the QR code to visit Frontend<br>Mentor and take your coding skills to<br> the next level</p>
+                <p class="para">Scan the QR code to visit Frontend Mentor and&nbsp;take your coding skills to<br> the next level</p>
             </div>
         </div>
     </main>
 
-    <br><br><br>
-
-    <footer >
-        <div class="attribution" id="bottom">
-            Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-            Coded by <br><a href="#">Mochimooo</a>.
-        </div>
+    <footer>
+        <div class="attribution">
+            
+            <div class="bottom">
+                Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+                Coded by <a href="#">Mochimooo</a>.
+            </div>
+            
+        </div>  
     </footer>
-
 </body>
 
 </html>
