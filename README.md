@@ -2,6 +2,7 @@
  My first project attempt
  Date started:1/10/2023
  Date finished: 1/23/2023
+ Date revised: 1/30/2023 - removed css style to external sheet; added CSS reset (made <h1> font bolder).
 
 ## Table of contents
 
